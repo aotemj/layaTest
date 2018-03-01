@@ -1,2 +1,3 @@
-Project configuration:d:\Documents\myLayaaaaqaaaaaqqsaaaaaaaareqaaaaasaaqq/.actionScriptProperties.
-******************************************************************************
+1,0.00,,0,Project command:d:\WWW\layaTest/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:d:\WWW\layaTest/.actionScriptProperties.
+7,0.00,,0,Read FB err:d:/WWW/layaTest/.actionScriptProperties
