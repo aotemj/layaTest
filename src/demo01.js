@@ -1,6 +1,6 @@
 // 创建舞台，默认背景色是黑色的
 Laya.init(600,300);
-var txt = new Laya.text();
+var txt = new Laya.Text();
 
 // 设置文本颜色
 txt.color = "#f00";
